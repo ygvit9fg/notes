@@ -45,5 +45,5 @@
 
     **слой 7(Прикладной)** - то, что видет пользователь и скрипты. Протоколы: HTTP/HTTPS (сайты) , SSH (удаленный доступ) , FTP (файлы)   
 
-Короче чтобы всю эту залупу заполнить есть хуйня такая  **P**lease **D**o **N**ot **T**hrow **S**ausage **A**way (**P**hysical -> **D**o -> **N**ot -> **T**hrow -> **S**ausage -> **P**izza -> **A**way) 
+Короче чтобы всю эту залупу заполнить есть хуйня такая  **P**lease **D**o **N**ot **T**hrow **S**ausage **A**way (**P**hysical -> **D**ata Link -> **N**etwork -> **T**ransport -> **S**ession -> **P**resentation -> **A**pplication) 
 
